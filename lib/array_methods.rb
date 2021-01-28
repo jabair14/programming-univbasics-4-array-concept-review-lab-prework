@@ -3,7 +3,7 @@ def find_element_index(scale, value_to_find)
   counter = 0 
   while counter < scale.length do
   if scale[counter] == value_to_find
-    p scale[counter]
+    
 #binding.pry
 end
   counter += 1
